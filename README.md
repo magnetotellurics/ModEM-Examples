@@ -28,7 +28,7 @@ For more information, see the [Releated Repositories](#related-repositories).
 The [ModEM User's Guide][ModEM-Users-Guide] also contains more information for
 running ModEM.
 
-[ModEM-Users-Guide]: https://github.com/MiCurry/ModEM-Model/blob/main/doc/userguide/ModEM_UserGuide.pdf
+[ModEM-Users-Guide]: https://github.com/magnetotellurics/ModEM/blob/main/doc/userguide/ModEM_UserGuide.pdf
 
 ## Related Repositories
 
@@ -36,5 +36,5 @@ running ModEM.
 * [ModEM-Tools][ModEM-Tools] - A collection of MatLab and Python tools
 to manipulate ModEM input and output files.
 
-[ModEM-Model]: https://github.com/MiCurry/ModEM-Model
-[ModEM-Tools]: https://github.com/MiCurry/ModEM-Tools
+[ModEM-Model]: https://github.com/magnetotellurics/ModEM
+[ModEM-Tools]: https://github.com/magnetotellurics/ModEM-Tools

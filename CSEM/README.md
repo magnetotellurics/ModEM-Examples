@@ -26,16 +26,16 @@ ModEM-Model][csem-branch] repository (which we hope to merge into the main
 branch soon). This README will walk you through using ModEM to run these
 simple, CSEM examples.
 
-[csem-branch]: https://github.com/MiCurry/ModEM-Model/tree/CSEM
+[csem-branch]: https://github.com/magnetotellurics/ModEM/tree/CSEM
 
 # Setting up
 
 ## Checking out ModEM-Model
 
-First, clone the [ModEM-Model repository][modem-model] from GitHub:
+First, clone the [ModEM repository][modem-model] from GitHub:
 
 ```bash
-$ git clone https://github.com/MiCurry/ModEM-Model.git
+$ git clone https://github.com/magnetotellurics/ModEM.git
 Cloning into 'ModEM-Model'...
 remote: Enumerating objects: 18608, done.
 remote: Counting objects: 100% (199/199), done.
@@ -54,7 +54,7 @@ $ git checkout CSEM
 branch 'CSEM' set up to track 'origin/CSEM'.
 Switched to a new branch 'CSEM'
 ```
-[modem-model]: https://github.com/MiCurry/ModEM-Model/
+[modem-model]: https://github.com/magnetotellurics/ModEM/
 
 ## Configuring ModEM CSEM version
 
@@ -240,7 +240,7 @@ To do this, you can use the ModEM-Tools PyModEM tool called `modem_cov` to mask
 the water (See [PyModEM README.md][pymodem] for PyModEM installation
 instructing).
 
-[pymodem]: https://github.com/MiCurry/ModEM-Tools/tree/main/python/PyModEM
+[pymodem]: https://github.com/magnetotellurics/ModEM-Tools/tree/main/python/PyModEM
 
 Let's create a covariance file where we set the x, y and z smoothing to be `0.3`
 and where we mask water (values that match ln(0.3) +/- 0.00005.):
