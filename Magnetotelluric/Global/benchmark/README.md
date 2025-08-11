@@ -15,4 +15,4 @@ $ ./Global3D
 
 The Global3D executable will read from the `fwd_startup` file.
 
-[global-branch]: https://github.com/MiCurry/ModEM-Model/tree/global
+[global-branch]: https://github.com/magnetotellurics/ModEM/tree/global
