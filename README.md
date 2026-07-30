@@ -1,7 +1,7 @@
 # ModEM-Examples
 
 This repository contains a number of ModEM Examples for use with
-[ModEM-Model][ModEM-Model]. The [Magnetetelluric directory][magnet_dir] 
+[ModEM-Model][ModEM-Model]. The [magnetotellurics directory][magnet_dir] 
 contains basic examples of using the forward and inverse solver for both
 2D and 3D.
 
